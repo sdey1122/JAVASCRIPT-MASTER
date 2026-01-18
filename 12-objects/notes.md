@@ -5,6 +5,9 @@ What is an object?
 An object in JavaScript is a **non-primitive (reference) data type** that stores related data and functions together in key–value pairs.  
 The keys are called **properties**, and the values can be **data or functions (methods)**.
 
+**key = property name**
+**value = property value**
+
 ### 🔹 Example
 ```js
 const user = {
